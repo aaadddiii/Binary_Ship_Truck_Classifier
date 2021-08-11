@@ -5,6 +5,14 @@ The model is deployed as an API on heroku.</br>
 
 Link to the API https://truckshipclassification.herokuapp.com/detect
 
+## Usage of API 
+Send a POST request with the image with name "image" as form-data
+
+<img src="https://user-images.githubusercontent.com/19375192/129088626-e66601f9-1b32-43e1-a3cd-47a8db61701f.png" alt="drawing" width="700"/>
+
+Response from the API
+
+<img src="https://user-images.githubusercontent.com/19375192/129089650-754146a9-6b88-4f6b-bde6-f60c1873b6d8.png" alt="drawing" width="700"/>
 
 ## Details
 Trained on images of ships and trucks from cifar-10 dataset.</br>
